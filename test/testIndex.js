@@ -15,7 +15,7 @@ describe('Prueba operaciones matematicas', function() {
     
     it('6+10 = 16',function(){
       var resultado = mf.suma(6,10)
-      assert.equal(resultado,16)
+      assert.equal(resultado,15)
     })
 
 });
